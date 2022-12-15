@@ -1,6 +1,6 @@
 # vue-test-rs
 
-> A Vue.js project for RoiStat
+> A Vue.js project for Roistat
 
 ## Build Setup
 
